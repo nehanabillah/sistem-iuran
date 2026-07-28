@@ -45,13 +45,3 @@ Melalui sistem ini, warga dapat memantau tagihan, melakukan pembayaran otomatis 
 **Evaluasi & Pengujian**
 - **Black Box Testing:** Pengujian fungsionalitas sistem untuk memastikan seluruh fitur berjalan sesuai kebutuhan.
 - **System Usability Scale (SUS):** Evaluasi tingkat kepuasan dan kemudahan penggunaan sistem oleh warga dan pengurus.
-
----
-
-**Daftar Kontributor**
-
-Penelitian dan pengembangan Sistem Informasi Iuran Berbasis Website ini disusun dan dikembangkan oleh:
-
-- **Pengembang Utama / Peneliti:** Tim Tugas Akhir Pengembangan Sistem Informasi Perumahan Bumi Agung Permai.
-- **Dosen Pembimbing:** Tim Dosen Pembimbing Tugas Akhir.
-- **Mitra Lapangan & Narasumber:** Pengurus RT/RW dan Bendahara Perumahan Bumi Agung Permai.
